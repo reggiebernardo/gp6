@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/618350666.svg)](https://zenodo.org/badge/latestdoi/618350666)
 # gp6
 
 Python code for **G**aussian **P**rocesses (for Phy**sics**) specifically designed for the reconstruction of late time cosmological data (e.g., [arXiv:2105.12970](https://arxiv.org/abs/2105.12970), [arXiv:2106.08688](https://arxiv.org/abs/2106.08688) and [arXiv:2111.08289](https://arxiv.org/abs/2111.08289)).

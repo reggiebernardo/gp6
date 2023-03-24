@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='gp6',
-    version='0.0.0',    
+    version='0.0.1',    
     description='Code for Gaussian Processes aimed at late time cosmological reconstruction',
     url='https://github.com/reggiebernardo/gp6',
     author='Reginald Christian Bernardo',
