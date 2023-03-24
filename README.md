@@ -9,13 +9,13 @@ Installation: `pip install gp6`
 ##### *Minimal example* (Hubble Expansion Rate Reconstruction with Cosmic Chronometers without Covariance, in terminal, `python ex1_minimal_cc.py`): <br />
 
 <table class="image" align="center" width="50%">
-<tr><td><img src="./Hz_CCbygp6.png"></td></tr>
+<tr><td><img src="https://github.com/reggiebernardo/gp6/blob/12045a545aec034a0887877146ec2f7defcd238f/Hz_CC_bygp6.png"></td></tr>
 <tr><td class="caption">Hubble function reconstruction with CC data (No Covariance)</td></tr>
 </table>
 
 <table class="image" align="center" width="50%">
-<tr><td><img src="./dHdz_CCbygp6.png"></td></tr>
+<tr><td><img src="https://github.com/reggiebernardo/gp6/blob/12045a545aec034a0887877146ec2f7defcd238f/dHdz_CC_bygp6.png"></td></tr>
 <tr><td class="caption">Hubble function derivative reconstruction with CC data (No Covariance)</td></tr>
 </table>
 
-##### *Another minimal example* ($H(z)$ Reconstruction with CC Covariance + Bonus Quintessence potential reconstruction and DE Equation of State): `quick_example.ipynb`.
+##### *Another minimal example* ($H(z)$ Reconstruction with CC Covariance + Bonus Quintessence potential and DE Equation of State GP inferrences): `quick_example.ipynb`.
