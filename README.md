@@ -25,3 +25,4 @@ $H(z)$ Reconstruction with [CC Covariance](https://gitlab.com/mmoresco/CCcovaria
 #### Upcoming
 - Cosmology-specialized reconstructions
 - DE models for physics inferrencing
+- ABC automated kernel selection (as in [arXiv:2106.08688](https://arxiv.org/abs/2106.08688))
