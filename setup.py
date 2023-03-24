@@ -9,5 +9,5 @@ setup(
     author_email='reginaldchristianbernardo@gmail.com',
     license='MIT license',
     packages=['gp6'],
-    install_requires=['numpy', 'scipy', 'math'],
+    install_requires=['numpy', 'scipy'],
 )
